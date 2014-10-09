@@ -8,4 +8,8 @@ class Panda
     that_with_which_is_climbed == :tree
   end
 
+  def sleep_percentage
+    10/24.0
+  end
+
 end
